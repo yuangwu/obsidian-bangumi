@@ -3,11 +3,11 @@
 > <div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">  
 > <div>
 > 
-> ![[支付宝.jpg|400]]
+> ![[支付宝.jpg|400](支付宝.jpg)](https://github.com/yuangwu/obsidian-bangumi/blob/main/yuangwu/Donate/%E5%BE%AE%E4%BF%A1.jpg)
 > </div>
 > <div>
 > 
-> ![[微信.jpg|400]]
+> ![[微信.jpg|400](微信.jpg)](https://github.com/yuangwu/obsidian-bangumi/blob/main/yuangwu/Donate/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg)
 > </div>
 
 > 注：

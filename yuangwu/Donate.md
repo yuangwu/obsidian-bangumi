@@ -1,5 +1,5 @@
 
-> **欢迎通过以下方式进行打赏赞助**
+> [!bookinfo|noicon] +**欢迎通过以下方式进行打赏赞助**
 > 
 > <div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
 >   <div>

@@ -1,7 +1,8 @@
 # Obsidian Bangumi 插件
 
 **从 Bangumi 导入条目、管理追番列表、自动检测更新。支持自定义笔记路径模板、封面下载、时间轴视图。**
-
+-  [GitHub 仓库] (https://github.com/yuangwu/obsidian-bangumi)
+-  [作者主页] (https://github.com/yuangwu)
 ---
 
 ## 📖 简介
@@ -45,6 +46,20 @@
 - ☑️ **打赏支持入口**：命令面板、追番工具栏、设置页均可弹出赞助弹窗（赞助链接由开发者硬编码，不可篡改）🔒 🆕
 - ☑️ **断点续传批量导入**：若导入过程中断，下次启动会自动检测残留状态文件，询问是否继续或清理 🆕
 - ☑️ 暗色主题完美适配
+
+---
+
+## 📦 如何安装
+
+### 从 Obsidian 插件中心（即将上线）
+1. 进入 Obsidian 插件中心
+2. 搜索 `obsidian-bangumi`
+3. 安装并启用
+
+### 手动安装
+1. 从 [Releases](https://github.com/yuangwu/obsidian-bangumi/releases) 页面下载 `main.js`, `manifest.json`, `styles.css`
+2. 将文件复制到你的 vault 的 `.obsidian/plugins/obsidian-bangumi/` 文件夹（如不存在请新建）
+3. 在 Obsidian 插件中心启用该插件
 
 ---
 
@@ -274,27 +289,13 @@
 
 ---
 
-## 📦 如何安装
-
-### 从 Obsidian 插件中心（即将上线）
-1. 进入 Obsidian 插件中心
-2. 搜索 `obsidian-bangumi`
-3. 安装并启用
-
-### 手动安装
-1. 从 [Releases](https://github.com/yuangwu/obsidian-bangumi/releases) 页面下载 `main.js`, `manifest.json`, `styles.css`
-2. 将文件复制到你的 vault 的 `.obsidian/plugins/obsidian-bangumi/` 文件夹（如不存在请新建）
-3. 在 Obsidian 插件中心启用该插件
-
----
-
 ## 🤝 贡献
 
 由于本软件采用专有许可证，目前不接受源代码级别的贡献。如果您有功能建议或发现 bug，欢迎在 [Issues](https://github.com/yuangwu/obsidian-bangumi/issues) 中反馈。
 
 ---
 
-## 🔧 支持开发者
+## 🙏 支持开发者
 
 如果觉得插件对你有帮助，欢迎**打赏赞助**，让我有更多动力维护和更新。
 
@@ -364,4 +365,4 @@ Copyright © 2026 yuangwu. All rights reserved.
 > - 感谢[一般の智人](https://space.bilibili.com/286674433) 的开源项目 [Yasikap/Bangumi-Bridge-Obsidian](https://github.com/Yasikap/Bangumi-Bridge-Obsidian)
 > - 感谢[景深很浅](https://space.bilibili.com/17915477) 的开源项目 [Obsidain影音库的模板](https://www.bilibili.com/video/BV1hiE9zAEj4/)
 
-**Enjoy your Bangumi experience in Obsidian!** 🎉
+**在 Obsidian 中享受你的 Bangumi 体验！** 🎉

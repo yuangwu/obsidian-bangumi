@@ -1,24 +1,5 @@
 # Obsidian Bangumi 插件
 
-<p align="center">  
-  <a href="https://github.com/yuangwu/obsidian-bangumi/releases/latest">  
-    <img src="https://img.shields.io/github/manifest-json/v/yuangwu/obsidian-bangumi?color=blue" alt="version">  
-  </a>  
-  <img src="https://img.shields.io/github/release-date/yuangwu/obsidian-bangumi" alt="release date">  
-  <a href="LICENSE.md">  
-    <img src="https://img.shields.io/badge/license-Proprietary-red" alt="license">  
-  </a>  
-  <img src="https://img.shields.io/github/downloads/yuangwu/obsidian-bangumi/total" alt="downloads">  
-  <a href="https://github.com/yuangwu/obsidian-bangumi/issues">  
-    <img src="https://img.shields.io/github/issues/yuangwu/obsidian-bangumi" alt="issues">  
-  </a>  
-  <br>  
-  <img src="https://img.shields.io/tokei/lines/github/yuangwu/obsidian-bangumi" alt="lines">  
-  <a href="https://www.codefactor.io/repository/github/yuangwu/obsidian-bangumi">  
-    <img src="https://www.codefactor.io/repository/github/yuangwu/obsidian-bangumi/badge" alt="CodeFactor">  
-  </a>  
-</p>
-
 **从 Bangumi 导入条目、管理追番列表、自动检测更新。支持自定义笔记路径模板、封面下载、时间轴视图。**
 
 ---

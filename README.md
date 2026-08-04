@@ -1,8 +1,8 @@
 # Obsidian Bangumi 插件
 
 **从 Bangumi 导入条目、管理追番列表、自动检测更新。支持自定义笔记路径模板、封面下载、时间轴视图。**
--  [GitHub 仓库] (https://github.com/yuangwu/obsidian-bangumi)
--  [作者主页] (https://github.com/yuangwu)
+-  [GitHub 仓库](https://github.com/yuangwu/obsidian-bangumi)
+-  [作者主页](https://github.com/yuangwu)
 ---
 
 ## 📖 简介
@@ -70,7 +70,6 @@
 1. 安装并启用插件后，如果尚未同意许可协议，插件功能不会激活。
 2. 此时 Obsidian 会弹出一个**用户许可协议**窗口，其中明确列出了**严禁倒卖、禁止商业利用、保留版权声明**等核心条款，请仔细阅读。
 3. 点击“**同意并继续**”后，所有功能即可正常使用。若关闭窗口或点击“拒绝”，插件仅保留一个命令 `Bangumi: 查看许可协议`，可随时再次打开协议窗口确认。
-4. 该决定会被记住，后续启动不再弹出。
 
 ### 2. 基础设置
 

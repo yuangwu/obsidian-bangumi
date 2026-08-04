@@ -6,9 +6,9 @@
 
 ## 📖 简介
 
-`obsidian-bangumi` 是一个为  [Obsidian] (https://obsidian.md/) 设计的插件，它将  [Bangumi.tv] (https://bangumi.tv/) 的动漫、书籍、音乐、游戏等条目无缝整合到您的知识库中。
+`obsidian-bangumi` 是一个为  [Obsidian](https://obsidian.md/) 设计的插件，它将  [Bangumi.tv](https://bangumi.tv/) 的动漫、书籍、音乐、游戏等条目无缝整合到您的知识库中。
 
-本项目的灵感源于以下开源项目： [Bangumi] (https://bgm.tv/) 的  [Bangumi 开源项目] (https://github.com/bangumi)、@ [月涟 _luvian] (https://space.bilibili.com/67571043) 的  [luvian 114/Bangumi-to-obsidian] (https://github.com/luvian114/Bangumi-to-obsidian)、@ [北漠海] (https://space.bilibili.com/1065768987) 的  [beimohai/Bangumi-to-obsidian-lite] (https://github.com/beimohai/Bangumi-to-obsidian-lite)、@ [一般の智人] (https://space.bilibili.com/286674433) 的  [Yasikap/Bangumi-Bridge-Obsidian] (https://github.com/Yasikap/Bangumi-Bridge-Obsidian)、@ [景深很浅] (https://space.bilibili.com/17915477) 的  [Obsidain 影音库的模板] (https://www.bilibili.com/video/BV1hiE9zAEj4/)，在此对以上开发者表示感谢！
+本项目的灵感源于以下开源项目： [Bangumi](https://bgm.tv/) 的  [Bangumi 开源项目](https://github.com/bangumi)、@ [月涟 _luvian](https://space.bilibili.com/67571043) 的  [luvian 114/Bangumi-to-obsidian](https://github.com/luvian114/Bangumi-to-obsidian)、@ [北漠海](https://space.bilibili.com/1065768987) 的  [beimohai/Bangumi-to-obsidian-lite](https://github.com/beimohai/Bangumi-to-obsidian-lite)、@ [一般の智人](https://space.bilibili.com/286674433) 的  [Yasikap/Bangumi-Bridge-Obsidian](https://github.com/Yasikap/Bangumi-Bridge-Obsidian)、@ [景深很浅](https://space.bilibili.com/17915477) 的  [Obsidain 影音库的模板](https://www.bilibili.com/video/BV1hiE9zAEj4/)，在此对以上开发者表示感谢！
 
 ---
 
@@ -50,11 +50,11 @@
 
 ## ⚡ 效果展示
 
-![Pasted image 20260804160758.png]
-![Pasted image 20260804160934.png]
-![Pasted image 20260804161024.png]
-![Pasted image 20260804161100.png]
-![[Pasted image 20260804160519.png]](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160519.png)
+![Pasted image 20260804160758.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160758.png)
+![Pasted image 20260804160934.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160934.png)
+![Pasted image 20260804161024.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804161024.png)
+![Pasted image 20260804161100.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804161100.png)
+![Pasted image 20260804160519.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160519.png)
 
 
 > 结合其他插件可以构建更丰富的工作流：

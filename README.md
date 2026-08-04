@@ -50,9 +50,15 @@
 
 ## ⚡ 效果展示
 
-结合其他插件可以构建更丰富的工作流：
-- 配合 **Dataview** 创建个人媒体库看板、同类推荐
-! [screenshot] (screenshot.png)
+![[Pasted image 20260804160758.png]]
+![[Pasted image 20260804160934.png]]
+![[Pasted image 20260804161024.png]]
+![[Pasted image 20260804161100.png]]
+![[Pasted image 20260804160519.png]] 
+
+
+> 结合其他插件可以构建更丰富的工作流：
+> - 配合 **Dataview** 创建个人媒体库看板、同类推荐
 
 ---
 

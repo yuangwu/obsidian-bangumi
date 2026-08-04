@@ -50,7 +50,7 @@
 
 ## ⚡ 效果展示
 
-![[Pasted image 20260804160758.png]]
+![Pasted image 20260804160758.png](Pasted image 20260804160758.png)
 ![[Pasted image 20260804160934.png]]
 ![[Pasted image 20260804161024.png]]
 ![[Pasted image 20260804161100.png]]

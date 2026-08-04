@@ -50,11 +50,11 @@
 
 ## ⚡ 效果展示
 
-![Pasted image 20260804160758.png](Pasted image 20260804160758.png)
-![[Pasted image 20260804160934.png]]
-![[Pasted image 20260804161024.png]]
-![[Pasted image 20260804161100.png]]
-![[Pasted image 20260804160519.png]] 
+![Pasted image 20260804160758.png]
+![Pasted image 20260804160934.png]
+![Pasted image 20260804161024.png]
+![Pasted image 20260804161100.png]
+![[Pasted image 20260804160519.png]](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160519.png)
 
 
 > 结合其他插件可以构建更丰富的工作流：

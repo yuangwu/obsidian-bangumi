@@ -1,15 +1,17 @@
 # Obsidian Bangumi 插件
 
-**从 Bangumi 导入条目、管理追番列表、自动检测更新。支持自定义笔记路径模板、封面下载、时间轴视图。**
--  [GitHub 仓库](https://github.com/yuangwu/obsidian-bangumi)
--  [作者主页](https://github.com/yuangwu)
+**从 Bangumi 导入条目、管理追番列表、自动检测更新。支持自定义笔记路径模板、封面下载、时间轴视图。**  
+
+[GitHub 仓库](https://github.com/yuangwu/obsidian-bangumi)
+[作者主页](https://github.com/yuangwu)
+
 ---
 
 ## 📖 简介
 
-`obsidian-bangumi` 是一个为[Obsidian](https://obsidian.md/) 设计的插件，它将[Bangumi.tv](https://bangumi.tv/) 的动漫、书籍、音乐、游戏等条目无缝整合到您的知识库中。
+`obsidian-bangumi` 是一个为 [Obsidian](https://obsidian.md/) 设计的插件，它将 [Bangumi.tv](https://bangumi.tv/) 的动漫、书籍、音乐、游戏等条目无缝整合到您的知识库中。 
 
-本项目的灵感源于以下开源项目: [Bangumi](https://bgm.tv/) 的  [Bangumi 开源项目](https://github.com/bangumi)、@ [月涟 _luvian](https://space.bilibili.com/67571043) 的  [luvian 114/Bangumi-to-obsidian](https://github.com/luvian114/Bangumi-to-obsidian)、@ [北漠海](https://space.bilibili.com/1065768987) 的  [beimohai/Bangumi-to-obsidian-lite](https://github.com/beimohai/Bangumi-to-obsidian-lite)、@ [一般の智人](https://space.bilibili.com/286674433) 的  [Yasikap/Bangumi-Bridge-Obsidian](https://github.com/Yasikap/Bangumi-Bridge-Obsidian)、@ [景深很浅](https://space.bilibili.com/17915477) 的  [Obsidain 影音库的模板](https://www.bilibili.com/video/BV1hiE9zAEj4/)，在此对以上开发者表示感谢！
+本项目的灵感源于以下开源项目: [Bangumi](https://bgm.tv/) 的 [Bangumi 开源项目](https://github.com/bangumi)、@ [月涟 _luvian](https://space.bilibili.com/67571043) 的 [luvian 114/Bangumi-to-obsidian](https://github.com/luvian114/Bangumi-to-obsidian)、@ [北漠海](https://space.bilibili.com/1065768987) 的 [beimohai/Bangumi-to-obsidian-lite](https://github.com/beimohai/Bangumi-to-obsidian-lite)、@ [一般の智人](https://space.bilibili.com/286674433) 的 [Yasikap/Bangumi-Bridge-Obsidian](https://github.com/Yasikap/Bangumi-Bridge-Obsidian)、@ [景深很浅](https://space.bilibili.com/17915477) 的 [Obsidain 影音库的模板](https://www.bilibili.com/video/BV1hiE9zAEj4/)，在此对以上开发者表示感谢！
 
 ---
 
@@ -23,7 +25,7 @@
 - 🚫 **删除版权标识**：不得删除、更改或遮盖本软件中的任何版权声明、商标或所有权标记。
 - 🚫 **使用原作者名义背书**：未经明确书面许可，不得使用版权持有人名称为您的衍生产品背书或推广。
 
-详细条款请阅读 [LICENSE.md](https://github.com/yuangwu/obsidian-bangumi/blob/main/LICENSE.md) 文件。
+详细条款请阅读[LICENSE.md](https://github.com/yuangwu/obsidian-bangumi/blob/main/LICENSE.md) 文件。
 
 ---
 
@@ -58,7 +60,7 @@
 3. 安装并启用
 
 ### 手动安装
-1. 从 [Releases](https://github.com/yuangwu/obsidian-bangumi/releases) 页面下载 `main.js`, `manifest.json`, `styles.css`
+1. 从[Releases](https://github.com/yuangwu/obsidian-bangumi/releases) 页面下载 `main.js`, `manifest.json`, `styles.css`
 2. 将文件复制到你的 vault 的 `.obsidian/plugins/obsidian-bangumi/` 文件夹（如不存在请新建）
 3. 在 Obsidian 插件中心启用该插件
 
@@ -264,7 +266,7 @@
 - 状态：{{state}}
 - 进度：{{progress}} 集
 
-!   [cover]   ({{cover}})
+![cover]({{cover}})
 
 ## 简介
 {{summary}}
@@ -338,6 +340,7 @@ Copyright © 2026 yuangwu. All rights reserved.
 | 批量导入断点续传 | 导入中断后重新启动 Obsidian | 检测到残留状态文件，弹窗询问是否继续导入或清理 | 若选择继续，从断点处恢复导入流程 |
 
 ---
+
 ## ⚡ 效果展示
 
 ![Pasted image 20260804160758.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160758.png)
@@ -345,7 +348,6 @@ Copyright © 2026 yuangwu. All rights reserved.
 ![Pasted image 20260804161024.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804161024.png)
 ![Pasted image 20260804161100.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804161100.png)
 ![Pasted image 20260804160519.png](https://github.com/yuangwu/obsidian-bangumi/blob/main/image/Pasted%20image%2020260804160519.png)
-
 
 > 结合其他插件可以构建更丰富的工作流：
 > - 配合 **Dataview** 创建个人媒体库看板、同类推荐

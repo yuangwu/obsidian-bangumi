@@ -30,7 +30,8 @@ Bangumi 集成插件（obsidian-bangumi）采用 **双重许可 (Dual Licensing)
 如您对商业许可证感兴趣，请通过以下方式联系作者：
 
 - [作者主页](https://github.com/yuangwu)
-- [GitHub Issues](https://github.com/yuangwu/obsidian-bangumi/issues)
+- [GitHub Issues](https://github.com/yuangwu/obsidian-media-library/issues)
+- 邮箱： [yuangwucxx@163.com](mailto:yuangwucxx@163.com)
 
 请在邮件或 Issue 中说明：
 

@@ -278,7 +278,7 @@
 ## 🔗 相关文档
 
 - [README.md](./README.md) — 项目介绍
-- [LICENSE.md](./LICENSE) — AGPL-3.0 完整协议
+- [LICENSE](./LICENSE) — AGPL-3.0 完整协议
 - [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) — 商业许可证说明
 - [CLA.md](./CLA.md) — 贡献者许可协议
 - [CHANGELOG.md](./CHANGELOG.md) — 更新日志（本文件）
